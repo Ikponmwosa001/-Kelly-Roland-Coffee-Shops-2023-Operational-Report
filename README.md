@@ -13,13 +13,6 @@ Observations
 
 -Accelerating Momentum: The growth rate appears to be increasing.
 
- -May was the Breakout Month.
-
--Largest Absolute Growth: +$37,787 increase from April to May.
-
--Second Highest Growth Rate: 31.8% monthly growth.
-
--Growth Rate Slowed Dramatically From 31.8% in May to 6.2% in June.
 
 -This could indicate:
 -Market saturation
