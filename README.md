@@ -26,4 +26,4 @@ Observations
 -End of a successful promotion
 -Seasonal pattern normalization
 -Operational capacity limits being reached
-<img width="889" height="694" alt="image" src="https://github.com/user-attachments/assets/8bd6a9a0-01a0-4b3f-9320-ebb249ced73b" />
+
